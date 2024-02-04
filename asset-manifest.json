@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/homenpm/static/css/main.32242fd8.css",
-    "main.js": "/homenpm/static/js/main.76f3360f.js",
-    "static/media/fa-solid-900.ttf": "/homenpm/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
-    "static/media/fa-brands-400.ttf": "/homenpm/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
-    "static/media/fa-solid-900.woff2": "/homenpm/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
-    "static/media/fa-brands-400.woff2": "/homenpm/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
-    "static/media/fa-regular-400.ttf": "/homenpm/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
-    "static/media/house.png": "/homenpm/static/media/house.4417330275f78faa31c3.png",
-    "static/media/caravan.png": "/homenpm/static/media/caravan.494a4a914b5471b41f3e.png",
-    "static/media/fa-regular-400.woff2": "/homenpm/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
-    "static/media/cake.png": "/homenpm/static/media/cake.6554473016d32b343f02.png",
-    "static/media/kidSmiling.svg": "/homenpm/static/media/kidSmiling.aa9aff02ddd0ef36a1724ecef4133df9.svg",
-    "static/media/fa-v4compatibility.ttf": "/homenpm/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
-    "static/media/fa-v4compatibility.woff2": "/homenpm/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
-    "index.html": "/homenpm/index.html",
-    "main.32242fd8.css.map": "/homenpm/static/css/main.32242fd8.css.map",
-    "main.76f3360f.js.map": "/homenpm/static/js/main.76f3360f.js.map"
+    "main.css": "/home/static/css/main.401c4a4c.css",
+    "main.js": "/home/static/js/main.4fc3dbb2.js",
+    "static/media/fa-solid-900.ttf": "/home/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/home/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/home/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/home/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/home/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/house.png": "/home/static/media/house.4417330275f78faa31c3.png",
+    "static/media/caravan.png": "/home/static/media/caravan.494a4a914b5471b41f3e.png",
+    "static/media/fa-regular-400.woff2": "/home/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/cake.png": "/home/static/media/cake.6554473016d32b343f02.png",
+    "static/media/kidSmiling.svg": "/home/static/media/kidSmiling.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/home/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/home/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/home/index.html",
+    "main.401c4a4c.css.map": "/home/static/css/main.401c4a4c.css.map",
+    "main.4fc3dbb2.js.map": "/home/static/js/main.4fc3dbb2.js.map"
   },
   "entrypoints": [
-    "static/css/main.32242fd8.css",
-    "static/js/main.76f3360f.js"
+    "static/css/main.401c4a4c.css",
+    "static/js/main.4fc3dbb2.js"
   ]
 }
