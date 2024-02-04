@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+section.about {
+    background-color: #1abc9c;
+    height: 80vh;
+}
+
+.line {
+    width: 20%;
+    height: 3px;
+}
+
+
+.fa-star {
+    margin-top: 10px;
+}
+
