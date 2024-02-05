@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { RouterProvider, createBrowserRouter } from "react-router-dom";
+import { RouterProvider, createHashRouter } from "react-router-dom";
 import About from './Components/About/About';
 import Portfolio from './Components/Portfolio/Portfolio';
 import Contact from './Components/Contact/Contact';
@@ -8,7 +8,7 @@ import Layout from './Components/Layout/Layout';
 import NotFound from './Components/Not Found/NotFound';
 
 
-const router = createBrowserRouter([
+const router = createHashRouter([
 
   {
     path: "", element: <Layout />, children: [
